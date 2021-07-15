@@ -37,7 +37,7 @@ CREATE TABLE cv
 );
 
 ```
-### Add .env file with followind deetails
+### Add .env file with followind details
 ```
 NODE_ENV=development
 DB_USER=<db_user>
